@@ -1,7 +1,6 @@
 # 💱 Currency Converter – React Project
 
-A modern and user-friendly Currency Converter web application built using React and Vite. This project converts currencies using real-time exchange rates fetched from the Frankfurter API and focuses on clean UI, smooth user experience, and core React concepts.
-
+A modern and user-friendly Currency Converter web application built using React and Vite. This project converts currencies using real-time exchange rates fetched from the Frankfurter API and focuses on clean UI, smooth user experience, and core React concept
 ---
 
 ## 🚀 Features
